@@ -1,0 +1,1 @@
+mode='manual' antenna='5' correlation='YY' reason='Ant 5 RxB phase instability'
