@@ -94,7 +94,7 @@ for this_target_path in all_target_paths:
         #    start='-130km/s',
            spw='6',
            width=1,
-           start=824,
+           start=312,
            nchan=400,
            specmode='cube',
            weighting='natural',
